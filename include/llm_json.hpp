@@ -4,6 +4,7 @@
 // MIT License — Mattbusel, 2026
 // Usage: #define LLM_JSON_IMPLEMENTATION in ONE .cpp before including
 
+#include <cstdint>
 #include <string>
 #include <vector>
 #include <stdexcept>
